@@ -3,7 +3,7 @@ import styles from "./List.module.css";
 import suryansh from "./media/104.jpg"; // Replace with actual images later
 import saurav from "./media/126.jpg"; // Replace with actual images later
 import aman from "./media/117.jpg"; // Replace with actual images later
-import avatar from "./media/avatar-icon.png"; // Replace with actual images later
+import prince from "./media/124.jpg"; // Replace with actual images later
 
 const students = [
   {
@@ -31,12 +31,12 @@ const students = [
     photo: aman,
   },
   {
-    name: "Satyam Singh",
+    name: "Prince Bhatt",
     section: "CSE Sec-2",
-    roll: "UEM223125",
+    roll: "UEM223124",
     phone: "3252362626",
-    email: "ss@gmail.com",
-    photo: avatar,
+    email: "princebhatt@gmail.com",
+    photo: prince,
   },
 ];
 
